@@ -1,0 +1,7 @@
+{
+  "name": "jev",
+  "description": "Jev Decision API skill — turn messy input into typed, calibrated decisions (choice / score / noul) from inside your agent, via the hosted jevtypesafeai.com API.",
+  "version": "1.0.0",
+  "author": { "name": "codaaiteam", "url": "https://jevtypesafeai.com" },
+  "homepage": "https://jevtypesafeai.com/agent-skill"
+}

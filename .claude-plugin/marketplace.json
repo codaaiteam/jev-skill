@@ -1,0 +1,11 @@
+{
+  "name": "jev-skill",
+  "owner": { "name": "codaaiteam", "url": "https://jevtypesafeai.com" },
+  "plugins": [
+    {
+      "name": "jev",
+      "source": "./",
+      "description": "Call the Jev (TypeSafe System One) Decision API from your agent — typed choice / score / noul decisions for routing, guardrails, scoring and gating."
+    }
+  ]
+}
